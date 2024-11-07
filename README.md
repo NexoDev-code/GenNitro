@@ -13,12 +13,12 @@ Improved again by: ledges
 
 
 
-What's new?
+# What's new?
 Massive code cleanup
 Easily Selectable Options w/ good looking UI.
 
 
-Requirements:
+# Requirements:
 Python 3 (tested on 3.7 and 3.8)
 Everything in requirements.txt Run and use the software
 Install dependencies (optional)
