@@ -36,3 +36,8 @@ How to use nitro-generator?
 1- Download
 2- Run the program
 3- Answer questions displayed on the terminal.
+
+![image](https://github.com/user-attachments/assets/1638688d-f84d-424c-b59e-3e0cf29072f9)
+
+# Showcase:
+![image](https://github.com/user-attachments/assets/57c48b5e-d4dd-46fa-8522-9355fb6c038b)
