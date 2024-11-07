@@ -4,7 +4,7 @@
 Download
 hey
 
-About the program
+# About the program
 Program created by: lnxcz
 
 Improved by: DR34M-M4K3R
